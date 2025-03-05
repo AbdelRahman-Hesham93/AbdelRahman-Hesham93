@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **advanced react state management**
 
-- I'm currently PhD Student **(Education)** [Check my master thesis about Development Transferable Competencies of Adults in the Light of the Fourth Industrial Revolution which was broadcasted on Egyptian television<a href="https://www.youtube.com/watch?v=usfashdC66A" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/watch?v=usfashdC66A" height="30" width="40" /></a>]
+- I'm currently PhD Student **(Education)** [Check my masters thesis about **Development Transferable Competencies of Adults in the Light of the Fourth Industrial Revolution** which was broadcasted on Egyptian television<a href="https://www.youtube.com/watch?v=usfashdC66A" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/watch?v=usfashdC66A" height="30" width="40" /></a>]
 
-- 📝 I regularly read articles on [new technologies & IoT](new technologies & IoT)
+- 📝 I regularly read articles on **[new technologies & IoT]**
 
 - 💬 Ask me about **technology & ICT**
 
